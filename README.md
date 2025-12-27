@@ -26,8 +26,15 @@ Comprehensive analysis of 119K+ hotel bookings (2015-2017) uncovering cancellati
 - **Recommendations**: Dynamic pricing for high-cancellation periods, target repeat guests, optimize room upgrades
 
 ## How to Use
-- Clone repo: `git clone [your-repo-url]`
-- Install dependencies: `pip install -r requirements.txt` (pandas, seaborn, scikit-learn)
+- Clone repo:
+  ```git
+  git clone https://github.com/PratyushPuri/Hotels-Operations-Analysis-EDA.git`
+  ```
+- Install dependencies:
+  ```python
+  pip install -r requirements.txt
+  ```
+  (pandas, seaborn, scikit-learn)
 - Open `hotel-booking-demand-analysis.ipynb` in Jupyter/Colab
 - Run cells sequentially - data loads automatically
 - Original Kaggle: [hotel-booking-demand-analysis](https://www.kaggle.com/code/pratyushpuri/hotel-booking-demand-analysis)
