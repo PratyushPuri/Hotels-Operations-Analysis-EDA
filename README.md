@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i0.wp.com/blog.keycafe.com/wp-content/uploads/2024/11/Diseno-sin-titulo-7.png?fit=1200%2C628&ssl=1" alt="drawing" width="500"/>
+<img src="hotel.webp" alt="drawing" width="500"/>
 
 </div>
 
